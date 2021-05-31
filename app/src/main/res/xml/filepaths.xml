@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="pchyapp_files"
+        path="."/>
+
+    <cache-path
+        name="pchyapp_cache"
+        path="CACHE/"/>
+
+    <external-path
+        name="pchyapp_images"
+        path="Pictures/" />
+
+    <external-cache-path
+        name="pchyapp_cache_path"
+        path="CACHE/"/>
+
+    <external-files-path
+        name="pchyapp_images"
+        path="Pictures/" />
+
+</paths>
+
